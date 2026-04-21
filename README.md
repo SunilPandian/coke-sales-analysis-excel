@@ -97,11 +97,6 @@ The dataset contains transactional-level sales data. Each row represents a produ
 
 ---
 
-## 📷 Project Demo
-(Add screenshots of your dashboard here)
-
----
-
 ## 🎯 Conclusion
 This project demonstrates how Excel can be used to transform raw transactional data into actionable insights. The analysis helps identify opportunities to improve sales performance, optimize pricing, and support data-driven decision-making.
 
