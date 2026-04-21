@@ -1,18 +1,17 @@
 # 📊 Coke Sales Analysis using Excel
 
 ## 📌 Project Overview
-This project focuses on analyzing Coca-Cola sales data across multiple U.S. retailers to extract meaningful business insights. The objective is to understand sales performance, profitability, and trends across regions, products, and time.
+This project analyzes Coca-Cola sales data across multiple U.S. retailers to uncover insights related to sales performance, profitability, and regional trends.
 
-The project answers key business questions such as:
-- How do sales vary across regions and retailers?
-- Which products generate the highest revenue?
-- How do pricing and volume impact profitability?
+The goal is to answer key business questions:
+- How do sales vary across regions, retailers, and products?
+- What is the relationship between pricing, volume, and profitability?
 - Are there any seasonal trends in sales?
 
 ---
 
 ## 📂 Dataset Description
-The dataset contains transactional-level sales data. Each row represents a product sale by a retailer in a specific location on a given date.
+The dataset contains transactional-level data where each row represents a product sale for a specific retailer, location, and date.
 
 ### Key Columns:
 - Retailer & Retailer ID  
@@ -29,46 +28,55 @@ The dataset contains transactional-level sales data. Each row represents a produ
 
 ## 🧹 Data Preparation
 - Standardized column names  
-- Cleaned and validated data  
-- Converted data types (dates, numeric fields)  
+- Cleaned inconsistent or missing values  
+- Converted data types (dates and numeric fields)  
 - Ensured consistency across regions and products  
-- Structured key metrics for analysis  
+- Structured metrics for analysis  
+
+---
+
+## 📁 Project Structure
+
+- **Beginner Sheet** → Basic aggregations and KPIs  
+- **Intermediate Sheet** → Sales comparison across regions, products, and retailers  
+- **Advanced Sheet** → Profitability and pricing analysis  
+- **Additional Analysis** → Trends, patterns, and deeper insights  
 
 ---
 
 ## 📊 Key Analysis Performed
 
-### 🔹 1. Sales Analysis
-- Total Sales: **~$8.68 Million**
-- West region is the highest revenue-generating region
-- Sales are concentrated among a few key retailers
+### 🔹 Sales Analysis
+- Total Sales: ~ $8.68 Million  
+- West region generates the highest revenue  
+- Sales are concentrated among top retailers  
 
 ---
 
-### 🔹 2. Product Performance
-- Coca-Cola is the top-performing product
-- Followed by Dasani Water and Diet Coke
-- Core products contribute the majority of revenue
+### 🔹 Product Performance
+- Coca-Cola is the top-performing product  
+- Followed by Dasani Water and Diet Coke  
+- Core products drive the majority of revenue  
 
 ---
 
-### 🔹 3. Retailer Analysis
-- Sodapop contributes the highest share of revenue
-- Strong dependency on top-performing retailers observed
+### 🔹 Retailer Analysis
+- Sodapop contributes the highest revenue share  
+- Strong dependency on top-performing retailers  
 
 ---
 
-### 🔹 4. Time-Based Analysis
-- Peak sales observed in **July and December**
-- Lower sales in early months
-- Indicates strong seasonal demand patterns
+### 🔹 Time-Based Analysis
+- Peak sales observed in **July and December**  
+- Lower sales in early months  
+- Indicates strong seasonal trends  
 
 ---
 
-### 🔹 5. Profitability Insights
-- Higher sales do not always result in higher profitability
-- Operating margins vary across products and regions
-- Pricing plays a key role in profitability
+### 🔹 Profitability Insights
+- High sales does not always mean high profitability  
+- Operating margins vary across products and regions  
+- Pricing significantly impacts profit margins  
 
 ---
 
@@ -81,11 +89,45 @@ The dataset contains transactional-level sales data. Each row represents a produ
 
 ---
 
+## 📷 Project Visualizations
+
+### 📍 Sales by Region
+![Sales by Region](Sales by Region.png)
+
+### 📍 Sales by Retailer
+![Sales by Retailer](Sales by Retailer.png)
+
+### 📍 Sales by Brand
+![Sales by Brand](Sales by Brand.png)
+
+### 📍 Monthly Sales Trend
+![Monthly Sales Trend](Monthly sales trend.png)
+
+### 📍 Sales Per Month
+![Sales Per Month](Sales Per Month.png)
+
+### 📍 Sales by Brand and Month
+![Sales by Brand and Month](Sales by brand and month.png)
+
+### 📍 Sales by Brand and Region
+![Sales by Brand and Region](Sales by brand and region.png)
+
+### 📍 Regional Sales Trend
+![Regional Sales Trend](Sales trend for region.png)
+
+### 📍 Units Sold Analysis
+![Units Sold](Sum of Units sold.png)
+
+### 📍 Units Sold per Brand
+![Units Sold per Brand](Units Sold per Brand.png)
+
+---
+
 ## 💡 Key Insights
 - West region dominates both revenue and volume  
-- Sales are highly dependent on a few retailers  
-- Seasonal trends significantly impact performance  
-- Core beverage products drive majority of sales  
+- Sales are heavily dependent on a few retailers  
+- Seasonal demand significantly impacts sales  
+- Core beverage products contribute most of the revenue  
 
 ---
 
@@ -98,6 +140,6 @@ The dataset contains transactional-level sales data. Each row represents a produ
 ---
 
 ## 🎯 Conclusion
-This project demonstrates how Excel can be used to transform raw transactional data into actionable insights. The analysis helps identify opportunities to improve sales performance, optimize pricing, and support data-driven decision-making.
+This project demonstrates how Excel can be used to transform raw sales data into actionable insights. The analysis supports data-driven decision-making to improve business performance and profitability.
 
 ---
