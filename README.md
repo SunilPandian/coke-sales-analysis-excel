@@ -92,34 +92,34 @@ The dataset contains transactional-level data where each row represents a produc
 ## 📷 Project Visualizations
 
 ### 📍 Sales by Region
-![Sales by Region](Sales by Region.png)
+![Sales by Region](Sales%20by%20Region.png)
 
 ### 📍 Sales by Retailer
-![Sales by Retailer](Sales by Retailer.png)
+![Sales by Retailer](Sales%20by%20Retailer.png)
 
 ### 📍 Sales by Brand
-![Sales by Brand](Sales by Brand.png)
+![Sales by Brand](Sales%20by%20Brand.png)
 
 ### 📍 Monthly Sales Trend
-![Monthly Sales Trend](Monthly sales trend.png)
+![Monthly Sales Trend](Monthly%20sales%20trend.png)
 
 ### 📍 Sales Per Month
-![Sales Per Month](Sales Per Month.png)
+![Sales Per Month](Sales%20Per%20Month.png)
 
 ### 📍 Sales by Brand and Month
-![Sales by Brand and Month](Sales by brand and month.png)
+![Sales by Brand and Month](Sales%20by%20brand%20and%20month.png)
 
 ### 📍 Sales by Brand and Region
-![Sales by Brand and Region](Sales by brand and region.png)
+![Sales by Brand and Region](Sales%20by%20brand%20and%20region.png)
 
 ### 📍 Regional Sales Trend
-![Regional Sales Trend](Sales trend for region.png)
+![Regional Sales Trend](Sales%20trend%20for%20region.png)
 
 ### 📍 Units Sold Analysis
-![Units Sold](Sum of Units sold.png)
+![Units Sold](Sum%20of%20Units%20sold.png)
 
 ### 📍 Units Sold per Brand
-![Units Sold per Brand](Units Sold per Brand.png)
+![Units Sold per Brand](Units%20Sold%20per%20Brand.png)
 
 ---
 
